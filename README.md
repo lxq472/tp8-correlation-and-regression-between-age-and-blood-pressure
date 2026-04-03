@@ -89,7 +89,6 @@ correlation-regression-healthcare/
 │
 ├── healthcare-correlation-regression-analysis.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ---
